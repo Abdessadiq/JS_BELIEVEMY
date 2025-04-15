@@ -1,5 +1,4 @@
-html,
-body {
+html, body {
   background-color: #232020;
   min-width: 500px;
 }
@@ -28,5 +27,5 @@ header {
 }
 
 .fini {
-  background-color: #0c9463;
+  background-color : #0c9463;
 }
